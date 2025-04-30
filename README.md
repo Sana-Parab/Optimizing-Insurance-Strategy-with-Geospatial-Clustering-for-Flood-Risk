@@ -42,8 +42,11 @@ Properties with ratios under 80% flagged as underinsured.
 Highlighted potential for premium adjustments and coverage expansion.
 
 📊 Impact on Insurance Strategy
+
 Underwriting Accuracy: Better segmentation allows for refined pricing based on risk exposure.
+
 Revenue Growth: Identified upsell opportunities through ITV analysis and policy gaps.
+
 Risk Sharing & Resilience: Insights support community-level planning and reinsurance partnerships.
 
 🧠 Skills & Tools
